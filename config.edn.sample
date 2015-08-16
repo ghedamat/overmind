@@ -1,0 +1,10 @@
+{:paths [{:path "/Users/tha/overmind/tmp" :recursive false}
+         {:path "/Users/tha/overmind/tmp2" :recursive false}
+         {:path "Users/tha/overmind/tmp3" :rescursive true}
+         ]
+ :space-devs [{:dev "/dev/disk1" :warning-limit 50 :danger-limit 95 :frequency 1}]
+ :rss {:feed-url "http://ghedamat.com"
+       :feed-file "feed.rss"
+       :feed-title "test feed"
+       :feed-storage "feed.edn"}
+ :telegram-chat-id "-XXXXXXX"}

@@ -1,0 +1,7 @@
+.lein-repl-history
+.nrepl-port
+tmp/
+tmp2/
+target/
+config.edn
+deploy.sh
